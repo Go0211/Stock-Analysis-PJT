@@ -3,7 +3,7 @@ name: Deploy Spring to EC2
 on:
   push:
     branches:
-      - Backend
+      - BackEnd
 
 jobs:
   deploy:
