@@ -9,6 +9,6 @@ import lombok.Getter;
 public class TestController {
 	@GetMapping("/test")
 	public String test() {
-		return "Hello World! test";
+		return "Hello World! test2";
 	}
 }
